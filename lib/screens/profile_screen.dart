@@ -20,7 +20,7 @@ class ProfileScreen extends StatelessWidget {
                 children: [
                   Icon(Icons.person_add_alt_1_outlined),
                   Text(
-                    "Salvador Valverde",
+                    "Mon Profil Affchat",
                     style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
                   ),
                   Icon(Icons.more_horiz)
