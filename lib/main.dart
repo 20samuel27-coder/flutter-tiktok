@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   @override
-  Widget build(MaterialKey) {
+  Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Affchat',
       theme: ThemeData.dark(),
